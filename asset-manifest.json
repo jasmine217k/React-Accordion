@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raect-Accordion/static/css/main.fe9c2fe3.css",
+    "main.js": "/Raect-Accordion/static/js/main.06ce704c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Raect-Accordion/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Raect-Accordion/index.html",
+    "main.fe9c2fe3.css.map": "/Raect-Accordion/static/css/main.fe9c2fe3.css.map",
+    "main.06ce704c.js.map": "/Raect-Accordion/static/js/main.06ce704c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Raect-Accordion/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe9c2fe3.css",
+    "static/js/main.06ce704c.js"
+  ]
+}
